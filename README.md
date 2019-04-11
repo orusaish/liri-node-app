@@ -69,9 +69,9 @@ Feel free to change the text in that document to test out the feature for other 
 - `node liri.js movie-this <insert movie title>`
 - `node liri.js do-what-it-says`
 
-##Preview
+## Preview
 
-###Concert-this
+### Concert-this
 
 <img width="600" alt="concert-pic" src="https://user-images.githubusercontent.com/46056178/55975516-276f6500-5c58-11e9-8969-d9404c1ea79e.png">
 
